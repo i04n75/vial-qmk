@@ -2,7 +2,6 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
-#include "sendstring_uk.h"
 
 enum custom_layer {
     _MAIN,
